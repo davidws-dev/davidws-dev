@@ -1,16 +1,44 @@
-## Hi there 👋
+# David Silva
 
-<!--
-**davidws-dev/davidws-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java & Spring Boot.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm transitioning into tech with a strong focus on backend development, building modern applications and scalable REST APIs.
+
+Currently studying and developing projects using Java, Spring Boot, PostgreSQL and Docker.
+
+---
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Git & GitHub
+- REST APIs
+
+---
+
+## Current Focus
+
+- Backend architecture
+- API development
+- Clean code
+- Software engineering fundamentals
+
+---
+
+## Portfolio
+
+🌐 https://davidws.pt
+
+---
+
+## Contact
+
+- LinkedIn (coming soon)
+- Email: hello@davidws.pt
